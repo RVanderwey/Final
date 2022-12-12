@@ -1,0 +1,55 @@
+body{
+    background: linear-gradient(57deg, #00C6A7 , #1E4D92 ); 
+    font-size: larger;
+
+
+}
+.rightside{
+    text-align: right;
+    
+}
+a:hover {
+    text-decoration: none;
+    color:black;
+    font-size: 36px;
+    font-weight: bold;
+    
+}
+
+a{
+    color:white;
+    font-size: 24;
+    font-weight: bold;
+    position: relative;
+    left: -100px
+}
+.leftside{
+    text-align: left;
+    font-size: 48px;
+}
+.body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    text-align: left;
+    color:aliceblue
+}
+.styledimg {
+    background-image: url(IMG_1131\ Small.png);
+    float:right;
+    position: relative;
+    background-size: 425px;
+    top:-200px;
+    right:100px;
+    background-repeat: no-repeat;
+    width: 800px;
+    height: 600px;
+    }
+    .second{
+        background-image: url(sports.jpg);
+        background-repeat: no-repeat;
+        position: relative;
+        background-size: 425px;
+        top:-300px;
+        right:-800px;
+        width:950px; height:700px;
+    }

@@ -1,0 +1,58 @@
+body{
+    background: linear-gradient(57deg, #00C6A7 , #1E4D92 ); 
+    font-size: larger;
+
+
+}
+a{
+    color:white;
+    font-size: 24;
+    font-weight: bold;
+    position: relative;
+    
+}
+a:hover{
+    text-decoration: none;
+    color:black;
+    font-size: 36px;
+    font-weight: bold;
+    
+}
+.rightside{
+    text-align: right;
+}
+.topleft{
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 48px;
+}
+.bottomleft{
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+    color: black;
+}
+.styledimg {
+    background-image: url(brophy.png);
+    float:right;
+    position: relative;
+    background-size: 350px;
+    top:-800px;
+    right:0px;
+    background-repeat: no-repeat;
+    width: 800px;
+    height: 600px;
+    }
+    .second{
+        background-image: url(Gonzaga.jpg);
+        background-repeat: no-repeat;
+        position: relative;
+        background-size: 400px;
+        top:-800px;
+        right:-950px;
+        width:950px; height:700px;
+    }
+.link{
+    text-align: left;
+
+}

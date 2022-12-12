@@ -1,0 +1,30 @@
+body{
+    background: linear-gradient(57deg, #00C6A7 , #1E4D92 ); 
+    font-size: larger;
+
+}
+a{
+    color:white;
+    font-size: 24;
+    font-weight: bold;
+    position: relative;
+    
+}
+a:hover{
+    text-decoration: none;
+    color:black;
+    font-size: 36px;
+    font-weight: bold;
+    
+}
+.rightside{
+    text-align: right;
+}
+.topleft{
+    text-align: justify;
+    font-size: 48px;
+
+}
+.tableauPlaceholder{
+    height:500px; width:700px;
+}
